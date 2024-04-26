@@ -1,9 +1,13 @@
+### Name : PREMJI P
+### Register Number : 212221043004
+### Date : 22-04-2024
+### Department : CSE
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
 
@@ -36,7 +40,7 @@ Gripping & drop detection
 Force & position adjustment
 Self-locking
 
-                  ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
 ### Figure -01 DH gripper with two finger gripper 
 
 #### Specifications
@@ -86,6 +90,13 @@ and click on the connect icon
 
 
 
+### Program
+
+
+![IMG-20240422-WA0028](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/e9a444ff-5190-4031-8601-e66ee8d92b42)
+![IMG-20240422-WA0027](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/c6a70af2-6d23-43e5-aba7-f37057c19d8f)
+![IMG-20240422-WA0026](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/f0c56193-8ca0-40ab-a194-12b93cbd41f1)
+![IMG-20240422-WA0025](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/b5b7a18c-429e-4561-98bb-a055c61cb373)
 
 
 
@@ -99,6 +110,28 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+FIGURE 1
+
+![IMG-20240422-WA0024](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/2a5be189-1f3d-4f19-8c9c-c15ed167637e)
+
+FIGURE 2
+
+![IMG-20240422-WA0035](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/39897c90-4a30-4515-aaea-fe5251f62107)
+
+FIGURE3
+
+![IMG-20240422-WA0031](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/923399ea-b34e-4376-a327-9e5f615ff097)
+
+FIGURE 4
+
+![IMG-20240422-WA0029](https://github.com/Prajin19/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979377/71d9fd43-7d49-4908-b224-4bef4ec24acd)
+
+
+### Video representation
+
+https://drive.google.com/file/d/18e0mIOrckWAUM1sZDLnldNbvhXX0QQwg/view?usp=drive_link
+
+
 
 
 
@@ -107,6 +140,7 @@ and click on the connect icon
 
 
 ### Results: 
+A regular shaped object is picked using two fingered gripper and placed on conveyor belt sucessfully.
 
 
 
