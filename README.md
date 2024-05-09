@@ -1,8 +1,8 @@
+### Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 ### Name : PREMJI P
 ### Register Number : 212221043004
 ### Date : 22-04-2024
 ### Department : CSE
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
 To pick and place a regular shape using two finger gripper on the conveyor belt 
